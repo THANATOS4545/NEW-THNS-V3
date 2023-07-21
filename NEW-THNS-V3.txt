@@ -10,9 +10,9 @@ USER : @i4m_A7aKalare1
 DATE EXP : 30/7/2023
 ID  : THNS-45-5F681D07BB-2.0==
 ------------------------------------
-USER : hamanamo
-DATE EXP :21/8/2023
-ID  : THNS-45-BEB1D3FDB8-2.0==
+USER : @hamanamo1
+DATE EXP : 15/8/2023
+ID  : THNS-45-6929EB4016-2.0==
 ------------------------------------
 USER : @yaxi108
 DATE EXP : 11/8/2023
